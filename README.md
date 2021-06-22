@@ -5,3 +5,4 @@
 ##### - https://github.com/rohitrao1/UFO-Sightings-Javascript
 ##### - https://github.com/cayelsie/UFO-Sightings-dropdown
 ##### - https://github.com/kreitlerj/UFO-Sightings
+##### - https://github.com/emmanuelmartinezs/UFOs/blob/main/static/js/app.js
