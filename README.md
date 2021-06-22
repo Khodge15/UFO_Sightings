@@ -7,7 +7,7 @@
   The filtering process is quite simple on this webpage. A user simply needs to enter a date, city, state, country, shape or any combination of the available filters and hit enter. The table will show all results for that filter (see image date and date-state below). 
 <img width="1197" alt="date" src="https://user-images.githubusercontent.com/82460401/122989613-a1d3bd80-d368-11eb-9fee-75c11a122149.png">
 <img width="1215" alt="date-state" src="https://user-images.githubusercontent.com/82460401/122989717-c039b900-d368-11eb-9a4c-52373b282c52.png">
-  The site can be accessed here UFO Finder[file:///Users/karihodge/Dropbox/UT_Data_Camp/Class_Folder/UFOs/index.html]
+  The site can be accessed here UFO Finder file:///Users/karihodge/Dropbox/UT_Data_Camp/Class_Folder/UFOs/index.html
 ### Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
   One major drawback of this site is that the data is static. It does not include current data. It is recommended that further development web scrapping of other sites to collect update UFO sightings, database development to store the web scrapping data and update app and index files to display this new data on the web site. 
 
